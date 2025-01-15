@@ -1,4 +1,4 @@
-DEPS = Zach
+DEPS = Wunna
 
 compile: main.c 
 	 gcc main.c -o $(DEPS)
